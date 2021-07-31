@@ -1,0 +1,43 @@
+/* this is a style to my html */
+body{
+    background-color: #ffffff;
+    /* background-image: url(./images/image2.jpg);
+    background-position: right top; */
+    
+}
+
+
+.para{
+  color: rgb(87, 219, 131) ;
+  background-color: rgb(51, 45, 145);
+  border: 1px solid rgb(179, 67, 67);
+  border-radius: 5px;
+  /* padding: 25px;
+  margin-top: 50px; */
+  width: 50%;
+  text-align: center;
+}
+.para2{
+    color:rgb(51, 45, 145);
+    background-color:rgb(29, 248, 9);
+    /* padding: 10px;
+    margin-top: 50px; */
+    text-align: right;
+}
+
+a:link{
+  color: green;
+}
+a:visited{
+  color: blue;
+}
+a:hover{
+  color: red;
+}
+
+h1{
+  color: red;
+}
+h1{
+  color:rgb(51, 45, 145)
+}
